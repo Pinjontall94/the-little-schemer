@@ -11,5 +11,6 @@
 
 (define (problems)
   (test-begin "ch1-toys")
+  ;; Chapter 1 Start! :3
   (test-assert (atom? 'atom))
   (test-end))
